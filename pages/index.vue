@@ -2,7 +2,7 @@
   <div class="pt-7">
     <Banner
       imageSrc="/banner-one.jpg"
-      text="Upgrade Your Wardrobe with Exclusive Discounts on Our Latest Arrivals!"
+      text="Upgrade your wardrobe with exclusive discounts on our latest arrivals!"
     ></Banner>
     <Banner
       imageSrc="/banner-2.jpg"
@@ -11,7 +11,7 @@
     ></Banner>
     <Banner
       imageSrc="/banner-3.jpg"
-      text="Upgrade Your Wardrobe with Exclusive Discounts on Our Latest Arrivals!"
+      text="Discover our latest collection!"
     ></Banner>
     <Banner
       imageSrc="/banner-4.jpg"
